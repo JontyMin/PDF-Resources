@@ -24,6 +24,9 @@
 
 - 深入了解计算机操作系统.pdf
 - DOS命令大全.pdf
+- Linux
+  - Linux内核设计与实现.pdf
+  - Linux命令行.pdf
 
 ---
 
