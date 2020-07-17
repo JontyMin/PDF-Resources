@@ -27,6 +27,7 @@
 - Linux
   - Linux内核设计与实现.pdf
   - Linux命令行.pdf
+  - Ubuntu-Linux从入门到精通
 
 ---
 
