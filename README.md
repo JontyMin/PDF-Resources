@@ -52,3 +52,12 @@
 - 数据结构-C#.pdf
 - 数据结构-Java.pdf
 
+</br>
+
+### JavaScript
+
+---
+
+- JavaScript高级程序设计(中文第3版).pdf
+- JavaScript权威指南(中文第6版).pdf
+- JavaScript设计模式与开发实践.pdf
